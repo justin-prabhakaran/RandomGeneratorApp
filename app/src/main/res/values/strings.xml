@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Jp Random</string>
+    <string name="range">Range</string>
+    <string name="random">Random</string>
+</resources>
